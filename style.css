@@ -1,0 +1,442 @@
+*
+{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+
+.col-lg-1
+{
+	width:8.33%;
+	padding:0 15px;
+}
+
+.col-lg-2
+{
+	width:16.66%;
+	padding:0 15px;
+}
+
+.col-lg-3
+{
+	width:25%;
+	padding:0 15px;
+}
+
+.col-lg-4
+{
+	width:33.33%;
+	padding:0 15px;
+}
+
+.col-lg-5
+{
+	width:41.66%;
+	padding:0 15px;
+}
+
+.col-lg-6
+{
+	width:50%;
+	padding:0 15px;
+}
+
+.col-lg-7
+{
+	width:58.33%;
+	padding:0 15px;
+}
+
+.col-lg-8
+{
+	width:66.66%;
+	padding:0 15px;
+}
+
+.col-lg-9
+{
+	width:75%;
+	padding:0 15px;
+}
+
+.col-lg-10
+{
+	width:83.33%;
+	padding:0 15px;
+}
+
+.col-lg-11
+{
+	width:91.66%;
+	padding:0 15px;
+}
+
+
+
+.col-lg-12
+{
+	width:100%;
+	padding:0 15px;
+}
+
+.container
+{
+	width:1170px;
+	margin:0 auto;
+	
+}
+
+.row
+{
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.align-items-center
+{
+	align-items:center;
+}
+.align-items-start
+{
+	align-items:flex-start;
+}
+
+.align-items-end
+{
+	align-items:flex-end;
+}
+
+
+.header-menu
+{
+	background-color:black;
+	height:100px;
+}
+
+.logo
+{
+	background-color:red;
+	height:45px;
+	margin-top:15px;
+}
+
+.banner-content
+{
+	background-color:red;
+	height:280px;
+	margin-top:15px;
+}
+
+.bannercontent
+{
+	
+	background-color:red;
+	height:280px;
+	margin-top:15px;
+}
+	
+	.bannercontent2
+	{
+		background-color:red;
+		height:330px;
+		margin-top:15px;
+	}
+	
+
+.client-section
+{
+		background-color:black;
+	height:300px;
+	margin-top:15px;
+}
+
+.client-logo{
+	
+	background-color:red;
+	height:50px;
+	margin-top:15px;
+}
+
+.client-logo2{
+	
+	background-color:red;
+	height:200px;
+	margin-top:15px;
+}
+
+.section-logo
+{
+	
+	background-color:red;
+	height:80px;
+	margin-top:15px;
+}
+
+.feature
+{
+	background-color:black;
+	height:600px;
+	margin-top:10px;
+}
+
+.feature-section
+{
+	background-color:red;
+	height:25px;
+	margin-top:15px;
+}
+	
+	
+.feature-section2{
+	background-color:red;
+	height:260px;
+	margin-top:15px;
+	
+}
+
+.featurelogo
+{
+	background-color:black;
+	height:320px;
+	margin-top:10px;
+}
+
+.feature-logo
+{
+	background-color:red;
+	height:25px;
+	margin-top:15px;
+}
+	
+	
+.feature-logo2{
+	background-color:red;
+	height:260px;
+	margin-top:15px;
+	
+}
+
+.service
+{
+	
+	height:620px;
+	margin-top:10px;
+}
+
+.service-logo
+{
+	background-color:red;
+	height:25px;
+	margin-top:15px;
+}
+	
+	
+.service-logo2{
+	background-color:red;
+	height:260px;
+	margin-top:15px;
+	
+}
+
+.pricing
+{
+	
+	height:330px;
+	background-color:black;
+	margin-top:10px;
+}
+
+.pricing-logo
+{
+	background-color:red;
+	height:25px;
+	margin-top:15px;
+}
+	
+	
+.pricing-logo2{
+	background-color:red;
+	height:260px;
+	margin-top:15px;
+	
+}
+
+.question
+{
+	
+	height:200px;
+	background-color:black;
+	margin-top:10px;
+}
+
+.question-logo
+{
+	background-color:red;
+	height:25px;
+	margin-top:15px;
+}
+
+.question-logo2
+{
+	background-color:red;
+	height:100px;
+	margin-top:15px;
+}
+
+.port
+{
+	height:1050px;
+}
+
+
+.port-service
+{
+	background-color:red;
+	height:100px;
+	margin-top:15px;
+}
+
+.port-ser{
+	
+	background-color:red;
+	height:250px;
+	margin-top:15px;
+	
+}
+
+.test
+{
+background-color:#000;
+	height:480px;
+}
+
+
+.test-service
+{
+	background-color:red;
+	height:100px;
+	margin-top:15px;
+}
+
+.port-ser{
+	
+	background-color:red;
+	height:250px;
+	margin-top:15px;
+	
+}
+
+.team
+{
+background-color:#fff;
+	height:360px;
+}
+
+
+.team-servic
+{
+	background-color:red;
+	height:50px;
+	margin-top:15px;
+}
+.team-service
+{
+	background-color:red;
+	height:260px;
+	margin-top:15px;
+}
+
+.client
+{
+	background-color:black;
+	height:180px;
+}
+
+.client-servic{
+	background-color:red;
+	height:20px;
+	margin-top:15px;
+}
+
+.client-service{
+	background-color:red;
+	height:100px;
+	margin-top:15px;
+}
+
+.blog
+{
+background-color:#fff;
+	height:400px;
+}
+
+
+.blog-service
+{
+	background-color:red;
+	height:100px;
+	margin-top:15px;
+}
+
+.blog-ser{
+	
+	background-color:red;
+	height:250px;
+	margin-top:15px;
+	
+}
+	
+	.contact
+	{
+		height:200px;
+		background-color:#000;
+		margin-top:15px;
+	}
+	
+	.news{
+		background-color:#fff;
+	height:120px;
+	}
+	
+	
+	.news-ser{
+		background-color:red;
+	height:80px;
+	margin-top:15px;
+	}
+	
+	.flex
+	{
+	background-color:black;
+	height:250px;
+	margin-top:10px;
+	}
+	
+	.flex-ser
+	{
+		background-color:red;
+		height:120px;
+		margin-top:10px;
+		
+	}
+	
+	.flex-ser2
+	{
+		background-color:red;
+		height:200px;
+		margin-top:10px;
+	}
+	
+	.cflex
+	{
+		background-color:#fff;
+		height:50px;
+	}
+	
+	.cflex2
+	{
+		background-color:red;
+		height:50px;
+		margin-top:10px;
+	
+	}
